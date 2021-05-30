@@ -1,4 +1,4 @@
-# Ejercicio-de-la-UOC
+# Ejercicios-de-la-UOC
 ejercicio de Javascript
 
 
